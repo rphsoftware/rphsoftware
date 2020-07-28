@@ -10,7 +10,7 @@ No, this doesn't mean I will steal your car. It also doesn't guarantee high qual
 
 * I am versatile in the programming languages that I use
 
-On here you will find projects in javascript, java, golang and general web technologies
+On here you will find projects in javascript, rust, java, golang and general web technologies
 
 ## Where I can be found
 
