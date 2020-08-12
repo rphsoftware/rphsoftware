@@ -23,3 +23,8 @@ e-mail: rphsoftware | at | gmail | dot | com (I plan on getting a more professio
 Website: [here](https://rph.space) (It's currently bare but I am working on it)
 
 ### If you have any questions, just ask me on discord
+
+## That part with some random quotes that describe me
+
+"Some idiot decided to use subtitle tracks to encode video"
+
