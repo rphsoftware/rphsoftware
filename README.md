@@ -28,3 +28,6 @@ Website: [here](https://rph.space) (It's currently bare but I am working on it)
 
 "Some idiot decided to use subtitle tracks to encode video"
 
+"Most cursed turtle on Earth"
+
+"Chrome user accidentally finds performance bug in Firefox"
