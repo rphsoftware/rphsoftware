@@ -12,6 +12,8 @@ No, this doesn't mean I will steal your car. It also doesn't guarantee high qual
 
 On here you will find projects in javascript, rust, java, golang and general web technologies
 
+* Pronouns: he/him
+
 ## Where I can be found
 
 Twitter: [@rphsoftware](https://twitter.com/rphsoftware) mainly for rambling about hard drives, filesystems and discord
