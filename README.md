@@ -12,7 +12,7 @@ No, this doesn't mean I will steal your car. It also doesn't guarantee high qual
 
 On here you will find projects in javascript, rust, java, golang and general web technologies
 
-* Pronouns: they/them (he/him acceptable)
+* Pronouns: they/them
 
 ## Where I can be found
 
