@@ -4,7 +4,7 @@ Congratulations, you found my Github public profile. As a reward, let me tell yo
 
 ## General info
 
-* I'm a 17 year old hobbyist software developer from Poland
+* I'm a 18 year old hobbyist software developer from Poland
 
 No, this doesn't mean I will steal your car. It also doesn't guarantee high quality code. To github I mostly publish small tools that I consider fully done and ready for usage, however you also may find testing repositories.
 
