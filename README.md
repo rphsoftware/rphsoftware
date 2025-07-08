@@ -13,7 +13,7 @@ To github I mostly publish small tools that I consider fully done and ready for 
 On here you will find projects in javascript, rust, java, golang and general web technologies
 I don't really publish much anymore because i am busy with private stuff, but i still make things even till today.
 
-* Pronouns: sh/her
+* Pronouns: she/her
 
 ## Where I can be found
 
